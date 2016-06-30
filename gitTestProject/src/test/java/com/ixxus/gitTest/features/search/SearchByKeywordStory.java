@@ -24,6 +24,7 @@ public class SearchByKeywordStory {
 
 	@Test
 	public void searching_by_keyword_apple_should_display_the_corresponding_article() {
+		// comment added here
 		anna.is_the_home_page();
 		anna.is_the_home_page();
 		// comment added here
